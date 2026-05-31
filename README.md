@@ -1,11 +1,11 @@
-# 💰 Financial Management System
+#  Financial Management System
 
 A relational database project built using **MySQL**, originally designed in Oracle SQL.
 This project simulates a basic banking system managing customers, accounts, transactions, loans, and employees.
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 - Understand relational database concepts
 - Implement SQL commands practically (DDL, DML, TCL, DCL)
@@ -16,7 +16,7 @@ This project simulates a basic banking system managing customers, accounts, tran
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -28,7 +28,7 @@ This project simulates a basic banking system managing customers, accounts, tran
 
 ---
 
-## 🗄️ Database Design
+##  Database Design
 
 ### Tables
 
@@ -48,7 +48,7 @@ This project simulates a basic banking system managing customers, accounts, tran
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 financial-management-system/
@@ -65,7 +65,7 @@ financial-management-system/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install [MySQL](https://dev.mysql.com/downloads/) or use [MySQL Workbench](https://www.mysql.com/products/workbench/)
 2. Open your MySQL client and run files **in this order**:
@@ -83,7 +83,7 @@ source alter_drop.sql       -- Alter/drop operations
 
 ---
 
-## 🔄 Oracle SQL → MySQL Conversions
+##  Oracle SQL → MySQL Conversions
 
 | Oracle SQL | MySQL Equivalent |
 |---|---|
@@ -97,7 +97,7 @@ source alter_drop.sql       -- Alter/drop operations
 
 ---
 
-## 👤 Author
+##  Author
 
 **Chanduri Jaswanth**
 
